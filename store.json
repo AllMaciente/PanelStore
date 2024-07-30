@@ -1,0 +1,6 @@
+{
+	"crafty":{
+		"compose":"crafty-compose.yml",
+		"icon":"static/crafty.png"
+	}
+}

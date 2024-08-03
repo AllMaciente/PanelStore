@@ -1,6 +1,10 @@
 {
 	"crafty":{
-		"compose":"crafty-compose.yml",
-		"icon":"static/crafty.png"
+		"compose":"AllMaciente/PanelStore/crafty-compose.yml",
+		"icon":"AllMaciente/PanelStore/static/crafty.png"
+	}
+	"fileBrowser":{
+		"compose":"AllMaciente/PanelStore/fileBrowser-compose.yml",
+		"icon":"AllMaciente/PanelStore/static/crafty.png"
 	}
 }

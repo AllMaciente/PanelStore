@@ -1,10 +1,11 @@
 {
 	"crafty":{
 		"compose":"AllMaciente/PanelStore/crafty-compose.yml",
-		"icon":"AllMaciente/PanelStore/static/crafty.png"
-	}
-	"fileBrowser":{
-		"compose":"AllMaciente/PanelStore/fileBrowser-compose.yml",
-		"icon":"AllMaciente/PanelStore/static/crafty.png"
+		"icon":"AllMaciente/PanelStore/crafty.png"
+	},
+	"filebrowser":{
+		"compose":"AllMaciente/PanelStore/filebrowser-compose.yml",
+		"icon":"AllMaciente/PanelStore/filebrowser.png",
+		"default":{"User":"admin","pass":"admin"}
 	}
 }

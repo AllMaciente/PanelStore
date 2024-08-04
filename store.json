@@ -1,11 +1,11 @@
 {
 	"crafty":{
 		"compose":"AllMaciente/PanelStore/crafty-compose.yml",
-		"icon":"AllMaciente/PanelStore/crafty.png"
+		"icon":"https://gitlab.com/uploads/-/system/project/avatar/20430749/Crafty_4-0_Logo_square.ico"
 	},
 	"filebrowser":{
 		"compose":"AllMaciente/PanelStore/filebrowser-compose.yml",
-		"icon":"AllMaciente/PanelStore/filebrowser.png",
+		"icon":"https://static-00.iconduck.com/assets.00/filebrowser-icon-512x512-9g64nh8y.png",
 		"default":{"User":"admin","pass":"admin"}
 	}
 }
